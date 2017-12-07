@@ -6,7 +6,7 @@ Burn CC254x firmware using an STM discovery board.
 
 Compile project CC_debug.uvprojx from Keil IDE and downloading into STM32VLDISCOVERY 
 
-connect to target, run CCLoader_x86_64.exe [RedBearLab] (https://github.com/RedBearLab/CCLoader) and burn it.
+connect to target, run CCLoader_x86_64.exe [RedBearLab](https://github.com/RedBearLab/CCLoader) and burn it.
 
 
 ![image](schem.png)
